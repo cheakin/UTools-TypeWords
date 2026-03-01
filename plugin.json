@@ -1,0 +1,20 @@
+{
+  "name": "Type Words",
+  "version": "1.0.0",
+  "description": "英语单词和文章跟打练习工具",
+  "author": "",
+  "homepage": "",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "typewords",
+      "explain": "英语练习",
+      "cmds": ["typewords", "英语练习", "单词跟打", "文章跟打"]
+    }
+  ],
+  "main": "index.html",
+  "preload": "preload.js",
+  "development": {
+    "main": "http://localhost:5567"
+  }
+}
